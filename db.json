@@ -1,0 +1,1528 @@
+{
+  "RMITdatabase": {
+    "status": 1,
+    "result": [
+      {
+        "research-interest": "Project-Based Learning\n STEM Education\n Creative Thinking Skills\n Embedded System",
+        "research-cluster": "Engineering and IT Education",
+        "name": "Anna Lyza Sancho Felipe",
+        "degrees": "School of Science, Engineering & Technology",
+        "email": "anna.felipe@rmit.edu.vn",
+        "research-cluster-second": "",
+        "full-profile": "https://www.rmit.edu.vn/contact-us/staff-profiles/f/anna-lyza-felipe"
+      },
+      {
+        "research-interest": "Semiconductor Device and Physics\n Embedded Systems",
+        "research-cluster": "Smart Cities",
+        "name": "Pham Ch\u00ed Thanh",
+        "degrees": "School of Science, Engineering & Technology",
+        "email": "thanh.pham@rmit.edu.vn",
+        "research-cluster-second": "",
+        "full-profile": "https://www.rmit.edu.vn/contact-us/staff-profiles/p/pham-chi-thanh"
+      },
+      {
+        "research-interest": "Semiconductor device design and fabrication\n Microelectronics\n Gas sensors technology",
+        "research-cluster": "Computing Technologies",
+        "name": "Alexandru Constantin Fechete",
+        "degrees": "School of Science, Engineering & Technology",
+        "email": "alexandru.fechete@rmit.edu.vn",
+        "research-cluster-second": "",
+        "full-profile": "https://www.rmit.edu.vn/contact-us/staff-profiles/f/alexandru-c-fechete"
+      },
+      {
+        "research-interest": "Industrial automation\n Power electronics\n Electrical drive system\n Renewable energy\n Smart grid",
+        "research-cluster": "Smart Cities and Advanced Manufacturing and Design",
+        "name": "Bui Xuan Minh",
+        "degrees": "School of Science, Engineering & Technology",
+        "email": "minh.buixuan@rmit.edu.vn",
+        "research-cluster-second": "",
+        "full-profile": "https://www.rmit.edu.vn/contact-us/staff-profiles/b/minh-bui"
+      },
+      {
+        "research-interest": "Asynchronous integrated circuit design\n Semiconductor device and process modelling\n Robotics & mechatronics engineering",
+        "research-cluster": "Computing Technologies",
+        "name": "Nguyen Le Huy",
+        "degrees": "School of Science, Engineering & Technology",
+        "email": "huy.nguyenle@rmit.edu.vn",
+        "research-cluster-second": "",
+        "full-profile": "https://www.rmit.edu.vn/contact-us/staff-profiles/n/huy-le-nguyen"
+      },
+      {
+        "research-interest": "Software Engineering Methodologies\n Software Project Management\n Software Design\n AI and ML",
+        "research-cluster": "Smart Computing Technologies",
+        "name": "Tran Ngoc Quang",
+        "degrees": "School of Science, Engineering & Technology",
+        "email": "quang.tran@rmit.edu.vn",
+        "research-cluster-second": "",
+        "full-profile": "https://www.rmit.edu.vn/contact-us/staff-profiles/t/tran-ngoc-quang"
+      },
+      {
+        "research-interest": "Enterprise resource planning\n Customer relationship management and insurance\n Media and publication\n Health information systems\n Public administration\n Content management system",
+        "research-cluster": "Computing Technologies",
+        "name": "Nguyen Ngoc Thanh",
+        "degrees": "School of Science, Engineering & Technology",
+        "email": "thanh.nguyenngoc@rmit.edu.vn",
+        "research-cluster-second": "",
+        "full-profile": "https://www.rmit.edu.vn/contact-us/staff-profiles/n/nguyen-ngoc-thanh"
+      },
+      {
+        "research-interest": "Computer forensics and cybers security\n Human computer interaction (evaluation)\n Technology supported teaching and learning",
+        "research-cluster": "Computing Technologies",
+        "name": "Jonathan Crellin",
+        "degrees": "School of Science, Engineering & Technology",
+        "email": "jonathan.crellin@rmit.edu.vn",
+        "research-cluster-second": "",
+        "full-profile": "https://www.rmit.edu.vn/contact-us/staff-profiles/c/jonathan-crellin"
+      },
+      {
+        "research-interest": "Management information systems\n Machine learning",
+        "research-cluster": "Computing Technologies",
+        "name": "Nguyen Minh Long",
+        "degrees": "School of Science, Engineering & Technology",
+        "email": "long.nguyenminh@rmit.edu.vn",
+        "research-cluster-second": "",
+        "full-profile": "https://www.rmit.edu.vn/contact-us/staff-profiles/n/nguyen-minh-long"
+      },
+      {
+        "research-interest": "System Modelling and Simulation\n Robotics and Automation\n Autonomous Vehicles\n Ocean Engineering",
+        "research-cluster": "Smart Cities and Sustainable Natural Environment",
+        "name": "Tran Quang Minh",
+        "degrees": "School of Science, Engineering & Technology",
+        "email": "minh.tranquang@rmit.edu.vn",
+        "research-cluster-second": "",
+        "full-profile": "https://www.rmit.edu.vn/contact-us/staff-profiles/t/tran-quang-minh"
+      },
+      {
+        "research-interest": "Robotic control and designs\n Material science and engineering\n Computer aided design and manufacturing",
+        "research-cluster": "Smart Cities and Advanced Manufacturing and Design",
+        "name": "Nguyen Chi Trung",
+        "degrees": "School of Science, Engineering & Technology",
+        "email": "trung.nguyenchi@rmit.edu.vn",
+        "research-cluster-second": "",
+        "full-profile": "https://www.rmit.edu.vn/contact-us/staff-profiles/n/nguyen-chi-trung"
+      },
+      {
+        "research-interest": "Robotics and Mechatronics\n Smart materials\n Computational mechanics \n Data-driven computing\n Scientific computing",
+        "research-cluster": "Smart Cities and Advanced Manufacturing and Design",
+        "name": "Nguyen Tan Cuong",
+        "degrees": "School of Science, Engineering & Technology",
+        "email": "cuong.nguyentan@rmit.edu.vn",
+        "research-cluster-second": "",
+        "full-profile": "https://www.rmit.edu.vn/contact-us/staff-profiles/n/nguyen-tan-cuong"
+      },
+      {
+        "research-interest": "High Performance Computing\n Distributed Computing\n Computational Science\n AI and Machine Learning",
+        "research-cluster": "Smart Computing Technologies",
+        "name": "Dinh Ngoc Minh",
+        "degrees": "School of Science, Engineering & Technology",
+        "email": "minh.dinh4@rmit.edu.vn",
+        "research-cluster-second": "",
+        "full-profile": "https://www.rmit.edu.vn/contact-us/staff-profiles/d/dinh-ngoc-minh"
+      },
+      {
+        "research-interest": "Security & Privacy\n Human-Computer Interaction\n Information Visualization",
+        "research-cluster": "Computing Technologies",
+        "name": "Dang Tran Tri",
+        "degrees": "School of Science, Engineering & Technology",
+        "email": "tri.dangtran@rmit.edu.vn",
+        "research-cluster-second": "",
+        "full-profile": "https://www.rmit.edu.vn/contact-us/staff-profiles/d/dang-tran-tri"
+      },
+      {
+        "research-interest": "Natural Language Process\n Reinforcement Learning\n Explainable AI",
+        "research-cluster": "Computing Technologies",
+        "name": "Vo Ngoc Yen Nhi",
+        "degrees": "School of Science, Engineering & Technology",
+        "email": "nhi.vongocyen@rmit.edu.vn",
+        "research-cluster-second": "",
+        "full-profile": "https://www.rmit.edu.vn/contact-us/staff-profiles/v/vo-ngoc-yen-nhi"
+      },
+      {
+        "research-interest": "Networking\n Algorithms\n High-performance Computing",
+        "research-cluster": "Computing Technologies",
+        "name": "Vu Thanh Minh",
+        "degrees": "School of Science, Engineering & Technology",
+        "email": "minh.vuthanh@rmit.edu.vn",
+        "research-cluster-second": "",
+        "full-profile": "https://www.rmit.edu.vn/contact-us/staff-profiles/v/vu-thanh-minh"
+      },
+      {
+        "research-interest": "Advanced imaging sensors/systems/algorithms\n Artificial intelligence",
+        "research-cluster": "Smart Cities",
+        "name": "Dao Vu Truong Son",
+        "degrees": "School of Science, Engineering & Technology",
+        "email": "son.daovutruong@rmit.edu.vn",
+        "research-cluster-second": "",
+        "full-profile": "https://www.rmit.edu.vn/contact-us/staff-profiles/d/dao-vu-truong-son"
+      },
+      {
+        "research-interest": "Programming\n Embedded and IoT Applications\n Computer Engineering (architecture and protocols)\n STEM Education",
+        "research-cluster": "Computing Technologies",
+        "name": "Tran Duc Linh",
+        "degrees": "School of Science, Engineering & Technology",
+        "email": "linh.tranduc@rmit.edu.vn",
+        "research-cluster-second": "",
+        "full-profile": "https://www.rmit.edu.vn/contact-us/staff-profiles/t/tran-duc-linh"
+      },
+      {
+        "research-interest": "Professional Communication",
+        "research-cluster": "Augmented reality \n Digital communication\n Digital advertising",
+        "name": "Truong Nguyen Xuan Vinh",
+        "degrees": "School of Communication & Design",
+        "email": "vinh.truongnguyenxuan@rmit.edu.vn",
+        "research-cluster-second": "Communication & Social Media",
+        "full-profile": ""
+      },
+      {
+        "research-interest": "Centre of Communication and Design",
+        "research-cluster": "Interaction design to encourage physical activity, sports in virtual and physical space",
+        "name": "Ondris Pui",
+        "degrees": "School of Communication & Design",
+        "email": "ondris.pui@rmit.edu.vn",
+        "research-cluster-second": "Mixed & Interactive Realities",
+        "full-profile": "https://www.rmit.edu.vn/contact-us/staff-profiles/p/ondris-pui"
+      },
+      {
+        "research-interest": "",
+        "research-cluster": "Film, video and screenwriting practice",
+        "name": "Nguyen Trong Khoa",
+        "degrees": "School of Communication & Design",
+        "email": "khoa.nguyen@rmit.edu.vn",
+        "research-cluster-second": "Moving Image, Sound & Storytelling",
+        "full-profile": "https://www.rmit.edu.vn/contact-us/staff-profiles/n/nguyen-trong-khoa"
+      },
+      {
+        "research-interest": "Professional Communication",
+        "research-cluster": "Sustainability\n Rise of global middle classes\n Mega-urbanization, especially Ho Chi Minh City\n Mobilities\n Public transport\n Gender and social change\n Work, welfare and retirement policy\n Social anthropology\n Sensory ethnography\n Authentic learning",
+        "name": "Catherine Earl",
+        "degrees": "School of Communication & Design",
+        "email": "catherine.earl@rmit.edu.vn",
+        "research-cluster-second": "Cities, Urbanism and Smart Spaces Platform (CUSP)",
+        "full-profile": ""
+      },
+      {
+        "research-interest": "Professional Communication",
+        "research-cluster": "Mobile, social, and digital media\n Critical and cultural theory\n Phenomenology\n Philosophy of technology\n Place and place-making practices",
+        "name": "Justin Battin",
+        "degrees": "School of Communication & Design",
+        "email": "justin.battin@rmit.edu.vn",
+        "research-cluster-second": "Cities, Spaces, and Urbanism",
+        "full-profile": "https://www.rmit.edu.vn/contact-us/staff-profiles/b/justin-battin"
+      },
+      {
+        "research-interest": "Design",
+        "research-cluster": "Digitization\n Digital Communication\n Cultural Sector\n Transnationalism, Migration and Mobility",
+        "name": "Emma Duester",
+        "degrees": "School of Communication & Design",
+        "email": "emma.duester@rmit.edu.vn",
+        "research-cluster-second": "Lead of Graphics, Typography and Visual Culture",
+        "full-profile": "https://www.rmit.edu.vn/contact-us/staff-profiles/d/emma-duester"
+      },
+      {
+        "research-interest": "Communication",
+        "research-cluster": "Diversity in the creative industries\n Sustainable fashion\n Global youth cultures\n Arts and cultural diversity",
+        "name": "Rimi Khan",
+        "degrees": "School of Communication & Design",
+        "email": "rimi.khan@rmit.edu.vn",
+        "research-cluster-second": "Sustainable Practices & Materials Technology",
+        "full-profile": "https://www.rmit.edu.vn/contact-us/staff-profiles/k/rimi-khan"
+      },
+      {
+        "research-interest": "Design Studies",
+        "research-cluster": "Strategic design\n Social design\n Urban spaces and ecology\n Creative and cultural ecology\n Practice-led creative research\n Art in public space\n Transnational design pedagogy\n Social inclusion and equity\n Interdisciplinary projects",
+        "name": "Michal Teague",
+        "degrees": "School of Communication & Design",
+        "email": "michal.teague@rmit.edu.vn",
+        "research-cluster-second": "CUSP - Cities, Urbanism & Smart Cities Platform (Cluster Co-Lead)",
+        "full-profile": "https://www.rmit.edu.vn/contact-us/staff-profiles/t/michal-teague"
+      },
+      {
+        "research-interest": "Design Studies",
+        "research-cluster": "Phenomenology, Psychology and Space\n Existential Spatial Hermeneutics\n Authenticity, Ontology and Creative Pedagogy",
+        "name": "Rachel Jahja",
+        "degrees": "School of Communication & Design",
+        "email": "rachel.jahja@rmit.edu.vn",
+        "research-cluster-second": "Cities, Spaces & Urbanism",
+        "full-profile": "https://www.rmit.edu.vn/contact-us/staff-profiles/j/rachel-jahja"
+      },
+      {
+        "research-interest": "Design Studies",
+        "research-cluster": "Methods of observation, documentation and re-presentation of the complex urban conditions through multiple moving image sequences.",
+        "name": "Andrew Stiff",
+        "degrees": "School of Communication & Design",
+        "email": "andrew.stiff@rmit.edu.vn",
+        "research-cluster-second": "Cities, Spaces & Urbanism",
+        "full-profile": "https://www.rmit.edu.vn/contact-us/staff-profiles/s/andrew-stiff"
+      },
+      {
+        "research-interest": "Design Studies",
+        "research-cluster": "Design for heritage (architectural, urban, industrial)\n Design for the bioregion (sustainability)\n Novel representations of the city",
+        "name": "Kenneth Rabin",
+        "degrees": "School of Communication & Design",
+        "email": "ken.rabin@rmit.edu.vn",
+        "research-cluster-second": "Cities, Spaces & Urbanism",
+        "full-profile": "https://www.rmit.edu.vn/contact-us/staff-profiles/r/kenneth-rabin"
+      },
+      {
+        "research-interest": "Design Studies",
+        "research-cluster": "The creation, development, propagation, and evolution of design methods",
+        "name": "Gary Dickson",
+        "degrees": "School of Communication & Design",
+        "email": "gary.dickson@rmit.edu.vn",
+        "research-cluster-second": "Graphics, Typography & Visual Culture",
+        "full-profile": "https://www.rmit.edu.vn/contact-us/staff-profiles/d/gary-dickson"
+      },
+      {
+        "research-interest": "Design Studies",
+        "research-cluster": "Video Games\n Interactive Storytelling\n Conspiracy Theories\n Tabletop Roleplaying Games, Boardgames & Wargames",
+        "name": "Patrice Crespy",
+        "degrees": "School of Communication & Design",
+        "email": "patrice.crespy@rmit.edu.vn",
+        "research-cluster-second": "Mixed & Interactive Realities",
+        "full-profile": ""
+      },
+      {
+        "research-interest": "Digital Media",
+        "research-cluster": "Sound Studies (Ambient Fields, Ambient Events & Ambient Experience)",
+        "name": "Bernard Thierry",
+        "degrees": "School of Communication & Design",
+        "email": "thierry.bernard@rmit.edu.vn",
+        "research-cluster-second": "Cities, Spaces & Urbanism",
+        "full-profile": "https://www.rmit.edu.vn/contact-us/staff-profiles/b/thierry-bernard"
+      },
+      {
+        "research-interest": "Digital Film and Video",
+        "research-cluster": "Moving image and sound collaboration, with a particular emphasis on a visual music collaboration with electroacoustic computer music composer Professor Tim Howle, University of Kent. \n Intercultural arts explorations - filming and representing Buddhist art and culture.\n Experimental and Avant-Garde film, video, digital media production, and video art\n Expanded cinematic practices including multi-projection work, interactive VJ technologies, public and gallery-based installation and screenings",
+        "name": "Nicholas Cope",
+        "degrees": "School of Communication & Design",
+        "email": "nick.cope@rmit.edu.vn",
+        "research-cluster-second": "Moving Image, Sound & Storytelling",
+        "full-profile": "https://www.rmit.edu.vn/contact-us/staff-profiles/c/nick-cope"
+      },
+      {
+        "research-interest": "Digital Media",
+        "research-cluster": "Digital philosophy\n Practice of syncing the standpoint of Ancient Greek logic with the period of the digit \n RRR (really real reality)",
+        "name": "Hellmut Monz",
+        "degrees": "School of Communication & Design",
+        "email": "hellmut.monz@rmit.edu.vn",
+        "research-cluster-second": "Mixed & Interactive Realities",
+        "full-profile": "https://www.rmit.edu.vn/contact-us/staff-profiles/m/hellmut-monz"
+      },
+      {
+        "research-interest": "Fashion Enterpriese",
+        "research-cluster": "Circular economy in fashion\n Sustainable fashion\n Contemporary fashion manufacturing\n Social media\n eWOM",
+        "name": "Rajkishore Nayak",
+        "degrees": "School of Communication & Design",
+        "email": "rajkishore.nayak@rmit.edu.vn",
+        "research-cluster-second": "Sustainable Practices & Materials Technology",
+        "full-profile": "https://www.rmit.edu.vn/contact-us/staff-profiles/n/nayak-rajkishore"
+      },
+      {
+        "research-interest": "Professional Communication & Fashion",
+        "research-cluster": "Advertising and PR",
+        "name": "Lam Hong Lan",
+        "degrees": "School of Communication & Design",
+        "email": "lan.lamhong@rmit.edu.vn",
+        "research-cluster-second": "Sustainable Practices & Materials Technology",
+        "full-profile": "https://www.rmit.edu.vn/contact-us/staff-profiles/l/lam-hong-lan"
+      },
+      {
+        "research-interest": "Fashion and Textile Merchandising",
+        "research-cluster": "History of fashion\n Archiving and exhibition of fashion articles\n Social impact of fashion issues\n Fashion as communication of identity \n A focus on fashion in Asia",
+        "name": "Rebecca Morris",
+        "degrees": "School of Communication & Design",
+        "email": "rebecca.morris@rmit.edu.vn",
+        "research-cluster-second": "Communication & Social Media",
+        "full-profile": ""
+      },
+      {
+        "research-interest": "Languages",
+        "research-cluster": "Youth Cultural Studies\n Media Studies\n Japanese Popular Culture\n Critical pedagogy (Teaching Japanese as Foreign Language)",
+        "name": "Eriko Yamato",
+        "degrees": "School of Communication & Design",
+        "email": "eriko.yamato@rmit.edu.vn",
+        "research-cluster-second": "Graphics, Typography & Visual Culture",
+        "full-profile": "https://www.rmit.edu.vn/contact-us/staff-profiles/y/eriko-yamato"
+      },
+      {
+        "research-interest": "Languages",
+        "research-cluster": "Applied critical thinking, multitasking and integrated skills in teaching and learning interpreting and translating (T&I) and English as a foreign language (EFL).\n Approaches and application of bilingualism/multilingualism in T&I, English language teaching (ELT) and teaching EFL (TEFL) embraced in light of the evolving concepts of world Englishes and globalisation.",
+        "name": "Duong Thi Hoang Oanh",
+        "degrees": "School of Communication & Design",
+        "email": "oanh.duongthihoang@rmit.edu.vn",
+        "research-cluster-second": "Graphics, Typography & Visual Culture",
+        "full-profile": "https://www.rmit.edu.vn/contact-us/staff-profiles/d/duong-thi-hoang-oanh"
+      },
+      {
+        "research-interest": "Professional Communication",
+        "research-cluster": "First year transition/first year experience\n Students of Confucian Heritage Cultures\n Academic expectations\n Academic success\n Scholarship of Learning and Teaching",
+        "name": "Linda Nguyen",
+        "degrees": "School of Communication & Design",
+        "email": "linda.nguyen@rmit.edu.vn",
+        "research-cluster-second": "Teaching and Learning",
+        "full-profile": "https://www.rmit.edu.vn/contact-us/staff-profiles/n/linda-nguyen"
+      },
+      {
+        "research-interest": "Professional Communication",
+        "research-cluster": "Brand communication\n Marketing management\n Social network and digital marketing\n Brand community\n Brand relationships\n Luxury branding.",
+        "name": "Ho Phu Hai",
+        "degrees": "School of Communication & Design",
+        "email": "hai.hophu@rmit.edu.vn",
+        "research-cluster-second": "Cities, Spaces & Urbanism",
+        "full-profile": "https://www.rmit.edu.vn/contact-us/staff-profiles/h/hai-phu-ho"
+      },
+      {
+        "research-interest": "Professional Communication",
+        "research-cluster": "Consumer psychology\n Marketing communications\n Healthcare\n Qualitative\n Vietnam",
+        "name": "Lena Bucatariu",
+        "degrees": "School of Communication & Design",
+        "email": "lena.bucatariu@rmit.edu.vn",
+        "research-cluster-second": "Communication & Social Media",
+        "full-profile": "https://www.rmit.edu.vn/contact-us/staff-profiles/b/lena-bucatariu"
+      },
+      {
+        "research-interest": "Professional Communication",
+        "research-cluster": "Socio-cultural impacts of information technologies\n Information behaviour\n Marginalised groups in Southeast Asia",
+        "name": "Abdul Rohman",
+        "degrees": "School of Communication & Design",
+        "email": "abdul.rohman@rmit.edu.vn",
+        "research-cluster-second": "Communication & Social Media",
+        "full-profile": "https://www.rmit.edu.vn/contact-us/staff-profiles/r/abdul-rohman"
+      },
+      {
+        "research-interest": "Professional Communication",
+        "research-cluster": "Higher Education\n Digital Cultures\n Alternative Media",
+        "name": "Jonathan J. Felix",
+        "degrees": "School of Communication & Design",
+        "email": "jonathan.felix@rmit.edu.vn",
+        "research-cluster-second": "Communication & Social Media",
+        "full-profile": "https://www.rmit.edu.vn/contact-us/staff-profiles/f/jonathan-j-felix"
+      },
+      {
+        "research-interest": "Professional Communication",
+        "research-cluster": "Crisis Communication \n Film study",
+        "name": "Bui Quoc Liem",
+        "degrees": "School of Communication & Design",
+        "email": "liem.buiquoc@rmit.edu.vn",
+        "research-cluster-second": "Communication & Social Media",
+        "full-profile": "https://www.rmit.edu.vn/contact-us/staff-profiles/b/liem-bui"
+      },
+      {
+        "research-interest": "Professional Communication",
+        "research-cluster": "Scholarship of Teaching and Learning\n Communication and media studies\n Communication for social change (such as alternative / community media)\n Island studies",
+        "name": "Linda Susan Austin",
+        "degrees": "School of Communication & Design",
+        "email": "linda.austin@rmit.edu.vn",
+        "research-cluster-second": "Communication & Social Media",
+        "full-profile": "https://www.rmit.edu.vn/contact-us/staff-profiles/a/linda-austin"
+      },
+      {
+        "research-interest": "Professional Communication",
+        "research-cluster": "Sustainable Marketing\n Internal Marketing\n Customer Engagement\n Online Collective Empowerment\n Health Communication\n Subjective Norms\n Perceived Fairness\n Social Media Community\n eWOM\n Work-Integrated Learning.",
+        "name": "Nguyen Van Thang Long",
+        "degrees": "School of Communication & Design",
+        "email": "long.nguyenvanthang@rmit.edu.vn",
+        "research-cluster-second": "Communication & Social Media",
+        "full-profile": "https://www.rmit.edu.vn/contact-us/staff-profiles/n/long-nguyen"
+      },
+      {
+        "research-interest": "Professional Communication",
+        "research-cluster": "Creative Writing\n Storytelling \n Collaborative Art\n Cultural Expression",
+        "name": "Edward Wade",
+        "degrees": "School of Communication & Design",
+        "email": "edward.wade@rmit.edu.vn",
+        "research-cluster-second": "Moving Image, Sound & Storytelling",
+        "full-profile": "https://www.rmit.edu.vn/contact-us/staff-profiles/w/edward-wade"
+      },
+      {
+        "research-interest": "Public Relations",
+        "research-cluster": "Communication\n Cross-cultural studies \n Marketing\n Social and Environmental Psychology \n Teaching and learning",
+        "name": "Kwai Fun (Hilda) Keung",
+        "degrees": "School of Communication & Design",
+        "email": "hilda.keung@rmit.edu.vn",
+        "research-cluster-second": "Communication & Social Media",
+        "full-profile": "https://www.rmit.edu.vn/contact-us/staff-profiles/k/hilda-keung"
+      },
+      {
+        "research-interest": "Design Studies",
+        "research-cluster": "Culture and heritage \n Vi\u1ec7t Ki\u1ec1u identity / overseas Vietnamese\n Interactive storytelling and narrative (audio visual)\n Cross - specialism design \n Immersive design and tech\n Installation art\n Textiles - traditional craft practices / smart textiles",
+        "name": "Rebecca Lu",
+        "degrees": "School of Communication & Design",
+        "email": "becky.lu@rmit.edu.vn",
+        "research-cluster-second": "Mixed & Interactive Realities",
+        "full-profile": "https://www.rmit.edu.vn/contact-us/staff-profiles/l/becky-lu"
+      },
+      {
+        "research-interest": "Design",
+        "research-cluster": "Cross cultural practices\n Calligraphy & Lettering Arts\n Graphic Design & Typography",
+        "name": "Manny Ling",
+        "degrees": "School of Communication & Design",
+        "email": "manny.ling@rmit.edu.vn",
+        "research-cluster-second": "Graphics, Typography & Visual Culture",
+        "full-profile": "https://www.rmit.edu.vn/contact-us/staff-profiles/l/dr-manny-ling"
+      },
+      {
+        "research-interest": "Digital Media",
+        "research-cluster": "Urban Photography\n Imaging Technologies\n Photography in Southeast Asia \n \n Note: I updated the information here - at the moment it is not so specific, but I expect to get updates soon. I just got approved to join the PhD program with RMIT Melbourne, but some paperwork still needs to be done, so we cannot put the details of this and my thesis topic on the page yet.. I will update once it is all official",
+        "name": "Christian Berg",
+        "degrees": "School of Communication & Design",
+        "email": "christian.berg@rmit.edu.vn",
+        "research-cluster-second": "Cities, Spaces & Urbanism",
+        "full-profile": "https://www.rmit.edu.vn/contact-us/staff-profiles/b/christian-berg"
+      },
+      {
+        "research-interest": "Design Studies",
+        "research-cluster": "Visual Communication for Health & Well-being\n Inclusivity\n Sustainability",
+        "name": "Hooi Chiat Teoh",
+        "degrees": "School of Communication & Design",
+        "email": "chiat.teoh@rmit.edu.vn",
+        "research-cluster-second": "Cities, Spaces & Urbanism",
+        "full-profile": "https://www.rmit.edu.vn/contact-us/staff-profiles/t/chiat-teoh"
+      },
+      {
+        "research-interest": "Fashion",
+        "research-cluster": "",
+        "name": "Cheryl Prendergast",
+        "degrees": "School of Communication & Design",
+        "email": "cheryl.prendergast@rmit.edu.vn",
+        "research-cluster-second": "Communication & Social Media",
+        "full-profile": ""
+      },
+      {
+        "research-interest": "Professional Communication",
+        "research-cluster": "Consumer behavior\n Digital and social media marketing\n Integrated communication marketing",
+        "name": "Hoang Tuan Dung",
+        "degrees": "School of Communication & Design",
+        "email": "dung.hoang@rmit.edu.vn",
+        "research-cluster-second": "",
+        "full-profile": "https://www.rmit.edu.vn/contact-us/staff-profiles/h/hoang-tuan-dung"
+      },
+      {
+        "research-interest": "Professional Communication",
+        "research-cluster": "",
+        "name": "Tran Thi Ngoc Thanh",
+        "degrees": "School of Communication & Design",
+        "email": "thanh.tranthingoc@rmit.edu.vn",
+        "research-cluster-second": "",
+        "full-profile": "https://www.rmit.edu.vn/contact-us/staff-profiles/t/thanh-tran"
+      },
+      {
+        "research-interest": "Fashion",
+        "research-cluster": "Graphic Design",
+        "name": "Tran Nha Ca",
+        "degrees": "School of Communication & Design",
+        "email": "ca.trannha@rmit.edu.vn",
+        "research-cluster-second": "Graphics, Typography & Visual Culture",
+        "full-profile": ""
+      },
+      {
+        "research-interest": "Digital Media",
+        "research-cluster": "",
+        "name": "Nguyen Hung Giang",
+        "degrees": "School of Communication & Design",
+        "email": "giang.nguyenhung@rmit.edu.vn",
+        "research-cluster-second": "",
+        "full-profile": "https://www.rmit.edu.vn/contact-us/staff-profiles/n/giang-nguyen"
+      },
+      {
+        "research-interest": "Digital Media",
+        "research-cluster": "",
+        "name": "Martin Constable",
+        "degrees": "School of Communication & Design",
+        "email": "martin.constable@rmit.edu.vn",
+        "research-cluster-second": "",
+        "full-profile": ""
+      },
+      {
+        "research-interest": "Languages",
+        "research-cluster": "Sociolinguistics\n Identity Studies\n Intercultural Communication",
+        "name": "Eriko Nishizawa",
+        "degrees": "School of Communication & Design",
+        "email": "eriko.nishizawa@rmit.edu.vn",
+        "research-cluster-second": "None",
+        "full-profile": ""
+      },
+      {
+        "research-interest": "Professional Communication",
+        "research-cluster": "Advertising\n Nation Branding\n Soft Power",
+        "name": "Soumik Parida",
+        "degrees": "School of Communication & Design",
+        "email": "soumik.parida@rmit.edu.vn",
+        "research-cluster-second": "Communication & Social Media",
+        "full-profile": "https://www.rmit.edu.vn/contact-us/staff-profiles/p/soumik-parida"
+      },
+      {
+        "research-interest": "Professional Communication",
+        "research-cluster": "",
+        "name": "Farida Kbar",
+        "degrees": "School of Communication & Design",
+        "email": "farida.kbar@rmit.edu.vn",
+        "research-cluster-second": "",
+        "full-profile": "https://www.rmit.edu.vn/contact-us/staff-profiles/k/farida-kbar"
+      },
+      {
+        "research-interest": "Languages",
+        "research-cluster": "Learner autonomy\n ELT in higher education\n Language education policy",
+        "name": "Le Xuan Quynh",
+        "degrees": "School of Communication & Design",
+        "email": "quynh.lexuan@rmit.edu.vn",
+        "research-cluster-second": "",
+        "full-profile": "https://www.rmit.edu.vn/contact-us/staff-profiles/q/quynh-le"
+      },
+      {
+        "research-interest": "Professional Communication",
+        "research-cluster": "Health communication\n New media\n Crisis communication\n Strategic communication\n Marketing communication",
+        "name": "Nguyen Thi Tham",
+        "degrees": "School of Communication & Design",
+        "email": "tham.nguyenthi@rmit.edu.vn",
+        "research-cluster-second": "Communication & Social Media",
+        "full-profile": ""
+      },
+      {
+        "research-interest": "Centre for Digital Excellence (CODE)",
+        "research-cluster": "The impacts of new technology on people, places and processes",
+        "name": "Jerry Watkins",
+        "degrees": "School of Business & Management",
+        "email": "jerry.watkins@rmit.edu.vn",
+        "research-cluster-second": "",
+        "full-profile": "https://www.rmit.edu.vn/contact-us/staff-profiles/w/jerry-watkins"
+      },
+      {
+        "research-interest": "Business & Innovation",
+        "research-cluster": "Information systems\n Business process crowd-sourcing, outsourcing\n Design science\n Business process modelling\n Process flexibility\n Information modeling\n Decision support systems\n Digital business\n Digital marketing\n Digital transformation\n Explainable AI\n Open innovation",
+        "name": "Nguyen Hoang Thuan",
+        "degrees": "School of Business & Management",
+        "email": "thuan.nguyenhoang@rmit.edu.vn",
+        "research-cluster-second": "Entrepreneurship, Innovation and Digital Transformation",
+        "full-profile": "https://www.rmit.edu.vn/contact-us/staff-profiles/n/nguyen-hoang-thuan"
+      },
+      {
+        "research-interest": "Business & Innovation",
+        "research-cluster": "Learning Analytics\n Quality Assurance in Higher Education Machine Learning\n Innovation and Entrepreneurship",
+        "name": "Alrence Santiago Halibas",
+        "degrees": "School of Business & Management",
+        "email": "alrence.halibas@rmit.edu.vn",
+        "research-cluster-second": "Entrepreneurship, Innovation, and Digital Transformation",
+        "full-profile": "https://www.rmit.edu.vn/contact-us/staff-profiles/h/alrence-santiago-halibas"
+      },
+      {
+        "research-interest": "Business & Innovation",
+        "research-cluster": "Digital marketing\n Sustainable consumption\n Sustainable tourism\n Sustainability education",
+        "name": "Nguyen Anh Thu",
+        "degrees": "School of Business & Management",
+        "email": "thu.nguyen@rmit.edu.vn",
+        "research-cluster-second": "Entrepreneurship, Innovation and Digital Transformation",
+        "full-profile": "https://www.rmit.edu.vn/contact-us/staff-profiles/n/anh-thu-nguyen"
+      },
+      {
+        "research-interest": "Digital Marketing (Program), Digital Innovation (Department)",
+        "research-cluster": "Consumer behaviour\n Consumer analytics\n Digital transformation\n Cybersecurity\n Fintech innovations\n Social network analysis\n Learning analytics\n Machine learning\n Methodological innovations",
+        "name": "Hoang Ai Phu\u01a1ng",
+        "degrees": "School of Business & Management",
+        "email": "phuong.hoangai@rmit.edu.vn",
+        "research-cluster-second": "Managing Smart Transformation",
+        "full-profile": "https://www.rmit.edu.vn/contact-us/staff-profiles/h/hoang-ai-phuong"
+      },
+      {
+        "research-interest": "Economics & Finance",
+        "research-cluster": "Applied economics\n Economics of innovation\n Blockchain Economy\n Crypto Economy",
+        "name": "Pham Thi Thu Tra",
+        "degrees": "School of Business & Management",
+        "email": "tra.pham@rmit.edu.vn",
+        "research-cluster-second": "Development Economics and Emerging Markets",
+        "full-profile": "https://www.rmit.edu.vn/contact-us/staff-profiles/p/tra-pham"
+      },
+      {
+        "research-interest": "Economics & Finance",
+        "research-cluster": "Global value chains\n International trade\n Culture difference in determining real investment\n Local firms in hosting countries & multinational corporations",
+        "name": "Woo Cheol Lee",
+        "degrees": "School of Business & Management",
+        "email": "woo.lee@rmit.edu.vn",
+        "research-cluster-second": "Development Economics and Emerging Markets",
+        "full-profile": ""
+      },
+      {
+        "research-interest": "Economics & Finance",
+        "research-cluster": "Education\n Leadership\n Gender studies\n Entrepreneurship\n Entrepreneurship Education\n SMEs\n Human Resource Management",
+        "name": "Greeni Maheshwari",
+        "degrees": "School of Business & Management",
+        "email": "greeni.maheshwari@rmit.edu.vn",
+        "research-cluster-second": "Development Economics and Emerging Markets",
+        "full-profile": ""
+      },
+      {
+        "research-interest": "Economics & Finance",
+        "research-cluster": "Banking \n Blockchain\n Crytocurrencies",
+        "name": "Nguyen Vu Hong Thai",
+        "degrees": "School of Business & Management",
+        "email": "thai.nguyenvuhong@rmit.edu.vn",
+        "research-cluster-second": "Development Economics and Emerging Markets",
+        "full-profile": "https://www.rmit.edu.vn/contact-us/staff-profiles/n/nguyen-vu-hong-thai"
+      },
+      {
+        "research-interest": "Economics & Finance",
+        "research-cluster": "Corporate finance and governance\n Investment and financial markets\n CSR & social accounting\n Entrepreneurship and business economics\n Digital economy and Blockchain technology\n Big data and machine learning",
+        "name": "Stanley Teck Lee Yap",
+        "degrees": "School of Business & Management",
+        "email": "tecklee.yap@rmit.edu.vn",
+        "research-cluster-second": "Development Economics and Emerging Markets",
+        "full-profile": ""
+      },
+      {
+        "research-interest": "Economics & Finance",
+        "research-cluster": "Bitcoin\n Blockchain\n Cryptofinance\n Financial Technology\n Real Estate Finance",
+        "name": "Nguyen Thanh Binh",
+        "degrees": "School of Business & Management",
+        "email": "binh.nguyenthanh@rmit.edu.vn",
+        "research-cluster-second": "Development Economics and Emerging Markets",
+        "full-profile": "https://www.rmit.edu.vn/contact-us/staff-profiles/n/binh-nguyen-thanh"
+      },
+      {
+        "research-interest": "Economics & Finance",
+        "research-cluster": "Fintech\n Cryptocurrencies\n Environmental finance\n Asset pricing\n Empirical finance",
+        "name": "Pham Nguyen Anh Huy",
+        "degrees": "School of Business & Management",
+        "email": "huy.phamnguyenanh@rmit.edu.vn",
+        "research-cluster-second": "Development Economics and Emerging Markets",
+        "full-profile": "https://www.rmit.edu.vn/contact-us/staff-profiles/p/huy-pham"
+      },
+      {
+        "research-interest": "Economics & Finance",
+        "research-cluster": "Economic development\n CO2 emission\n Peer effects of neighboring countries",
+        "name": "Sung Yong Park",
+        "degrees": "School of Business & Management",
+        "email": "park.sungyong@rmit.edu.vn",
+        "research-cluster-second": "Development Economics and Emerging Markets",
+        "full-profile": "https://www.rmit.edu.vn/contact-us/staff-profiles/p/sung-y-park"
+      },
+      {
+        "research-interest": "Management",
+        "research-cluster": "HRM\n Employee motivation\n Green HRM\n Green training\n Hospitality HRM\n Digital transformation\n Ethics and sustainability",
+        "name": "Han Jung Woo",
+        "degrees": "School of Business & Management",
+        "email": "jungwoo.han@rmit.edu.vn",
+        "research-cluster-second": "Scholarship of Learning in Higher Education & Organisations",
+        "full-profile": "https://www.rmit.edu.vn/contact-us/staff-profiles/w/han-jung-woo"
+      },
+      {
+        "research-interest": "Management",
+        "research-cluster": "Leadership\n HRM\n Entrepreneurship\n Management\n Diversity Management\n Expatriate Retention\n Job Satisfaction\n Quality Management\n Higher Education\n Knowledge Management",
+        "name": "Anantha Raj A. Arokiasamy",
+        "degrees": "School of Business & Management",
+        "email": "anantharaj.arokiasamy@rmit.edu.vn",
+        "research-cluster-second": "Scholarship of Learning in Higher Education & Organisations",
+        "full-profile": "https://www.rmit.edu.vn/contact-us/staff-profiles/a/alex-arokiasamy"
+      },
+      {
+        "research-interest": "Management",
+        "research-cluster": "Public sector management\n Entreprenuership\n Organizational dynamics\n Tourism",
+        "name": "Seng Kiat Kok",
+        "degrees": "School of Business & Management",
+        "email": "seng.kok@rmit.edu.vn",
+        "research-cluster-second": "Scholarship of Learning in Higher Education & Organisations",
+        "full-profile": "https://www.rmit.edu.vn/contact-us/staff-profiles/k/seng-kiat-kok"
+      },
+      {
+        "research-interest": "Business & Innovation",
+        "research-cluster": "Logistics & Supply Chain Management\n Tourism & Hospitality \n Education \n Business Management \n Communication Soft-Skills \n Alternative Medicine",
+        "name": "Scott McDonald",
+        "degrees": "School of Business & Management",
+        "email": "scott.mcdonald@rmit.edu.vn",
+        "research-cluster-second": "Entrepreneurship, Innovation, and Digital Transformation\n Logistics and Supply Chain Management\n Tourism and Hospitality",
+        "full-profile": "https://www.rmit.edu.vn/contact-us/staff-profiles/m/scott-mcdonald"
+      },
+      {
+        "research-interest": "Business & Innovation",
+        "research-cluster": "Cyber security behaviour\n Supply chain management\n Education technologies\n Digital innovation adoption\n Technology adoption",
+        "name": "Pham Cong Hiep",
+        "degrees": "School of Business & Management",
+        "email": "hiep.pham@rmit.edu.vn",
+        "research-cluster-second": "Logistics and Supply Chain Management",
+        "full-profile": ""
+      },
+      {
+        "research-interest": "Business & Innovation",
+        "research-cluster": "Supply chain management\n Integrated, reverse and green logistics\n Sustainable development\n Corporate social responsibility (CSR) and corporate citizenship\n Emerging technologies\n Operations management\n Strategic outsourcing\n Business process reengineering (BPR)\n Pollution reduction\n Anywhere working, teleworking, working from home\n Smart cities",
+        "name": "Reza Akbari",
+        "degrees": "School of Business & Management",
+        "email": "reza.akbari@rmit.edu.vn",
+        "research-cluster-second": "Logistics and Supply Chain Management",
+        "full-profile": "https://www.rmit.edu.vn/contact-us/staff-profiles/a/reza-akbari"
+      },
+      {
+        "research-interest": "Management",
+        "research-cluster": "Strategy\n Non-market strategy\n Corporate governance\n Privatization\n Political economy",
+        "name": "Burkhard N. Schrage",
+        "degrees": "School of Business & Management",
+        "email": "burkhard.schrage@rmit.edu.vn",
+        "research-cluster-second": "Development Economics and Emerging Markets",
+        "full-profile": ""
+      },
+      {
+        "research-interest": "Management",
+        "research-cluster": "Digital transformation management\n E-government (digital government)\n Internation business\n Development economics",
+        "name": "Nguyen Quang Trung",
+        "degrees": "School of Business & Management",
+        "email": "trung.nguyen@rmit.edu.vn",
+        "research-cluster-second": "Managing Smart Transformation",
+        "full-profile": "https://www.rmit.edu.vn/contact-us/staff-profiles/n/nguyen-quang-trung"
+      },
+      {
+        "research-interest": "Office of Dean",
+        "research-cluster": "Statistics\n Qualitative and Quantitative Research Methods\n Issues in Tourism\n Environmental Sustainability\n Health Management\n Public Sector Management",
+        "name": "Robert McClelland",
+        "degrees": "School of Business & Management",
+        "email": "robert.mcclelland@rmit.edu.vn",
+        "research-cluster-second": "Lead on Sustainable Development",
+        "full-profile": ""
+      },
+      {
+        "research-interest": "Tourism & Hospitality Management",
+        "research-cluster": "Culturally-derived belief \n Behavior models in tourism destinations\n Young people's behaviors in tourism destinations\n Research methods in tourism research\n Cross-cultural tourism behavior",
+        "name": "Nuno Ribeiro",
+        "degrees": "School of Business & Management",
+        "email": "nuno.ribeiro@rmit.edu.vn",
+        "research-cluster-second": "Tourism and Hospitality",
+        "full-profile": "https://www.rmit.edu.vn/contact-us/staff-profiles/r/nuno-f-ribeiro"
+      },
+      {
+        "research-interest": "Tourism & Hospitality Management",
+        "research-cluster": "Operations Management\n Hospitality Education\n Revenue Management\n Innovation\n System Design Management",
+        "name": "Justin Matthew Pang",
+        "degrees": "School of Business & Management",
+        "email": "justin.pang@rmit.edu.vn",
+        "research-cluster-second": "Tourism and Hospitality",
+        "full-profile": "https://www.rmit.edu.vn/contact-us/staff-profiles/p/justin-matthew-pang"
+      },
+      {
+        "research-interest": "Tourism & Hospitality Management/ Management",
+        "research-cluster": "Urban Tourism Modelling\n Coastal Tourism Development,\n Sustainability Practices in Hospitality Industry \n CSR\n Organisation Culture\n Tourism Planning",
+        "name": "Jackie Lei Tin Ong",
+        "degrees": "School of Business & Management",
+        "email": "leitin.ong@rmit.edu.vn",
+        "research-cluster-second": "Tourism and Hospitality",
+        "full-profile": "https://www.rmit.edu.vn/contact-us/staff-profiles/o/jackie-lei-tin-ong"
+      },
+      {
+        "research-interest": "Economics and Finance",
+        "research-cluster": "Blockchain Economics\n Financial Economics\n Energy Finance\n Financial Contagion\n Macroeconomics Policy",
+        "name": "Bui Duy Tung",
+        "degrees": "School of Business & Management",
+        "email": "tung.buiduy@rmit.edu.vn",
+        "research-cluster-second": "Development Economics and Emerging Markets",
+        "full-profile": ""
+      },
+      {
+        "research-interest": "Business & Innovation",
+        "research-cluster": "Sustainability \n Circular economy \n Technology & innovation\n Sourcing \n Learning and knowledge management \n Finance and accounting. \n Human Resources \n Tourism and Hospitality \n Marketing \n Management \n Foreign trade",
+        "name": "Majo George",
+        "degrees": "School of Business & Management",
+        "email": "majo.george@rmit.edu.vn",
+        "research-cluster-second": "Logistics and Supply Chain Management",
+        "full-profile": "https://www.rmit.edu.vn/contact-us/staff-profiles/g/majo-george"
+      },
+      {
+        "research-interest": "Economics & Finance",
+        "research-cluster": "Market inefficiencies with practical relevance\n International finance\n Leadership\n Macroeconomics\n Growth theory",
+        "name": "Daniel Borer",
+        "degrees": "School of Business & Management",
+        "email": "daniel.borer@rmit.edu.vn",
+        "research-cluster-second": "Development Economics and Emerging Markets",
+        "full-profile": ""
+      },
+      {
+        "research-interest": "Economics & Finance",
+        "research-cluster": "Agricultural commodity markets\n Derivatives\n International finance\n Investments\n Corporate finance",
+        "name": "(Koswatte Liyanage Udeshini) Devmali Perera",
+        "degrees": "School of Business & Management",
+        "email": "devmali.perera@rmit.edu.vn",
+        "research-cluster-second": "Development Economics and Emerging Markets",
+        "full-profile": ""
+      },
+      {
+        "research-interest": "Human Resource Management and Entrepreneurship",
+        "research-cluster": "Entrepreneurship\n Micro, Small and Medium Entrepreneurs (MSMEs)\n Social Entrepreneurship\n Relationship Management\n Customer Service\n Management\n Technopreneurship\n Strategic Management \n Sustainability and Change Management",
+        "name": "Caesar Apolinar S. Ramirez Jr.",
+        "degrees": "School of Business & Management",
+        "email": "",
+        "research-cluster-second": "Entrepreneurship , Innovation and Digital Transformation",
+        "full-profile": ""
+      },
+      {
+        "research-interest": "Economics & Finance",
+        "research-cluster": "Global law to human security\n Improving the orientation of the laws promote businesses, guarantee human health and respect for the environment",
+        "name": "Estela Gutierrez Rodriguez",
+        "degrees": "School of Business & Management",
+        "email": "estela.guro@rmit.edu.vn",
+        "research-cluster-second": "",
+        "full-profile": ""
+      },
+      {
+        "research-interest": "International Business",
+        "research-cluster": "International business\n SMEs\n Family businesses\n Tourism/hospitality\n Innovation",
+        "name": "Abel Duarte Alonso",
+        "degrees": "School of Business & Management",
+        "email": "abel.alonso@rmit.edu.vn",
+        "research-cluster-second": "",
+        "full-profile": ""
+      },
+      {
+        "research-interest": "Economics & Finance",
+        "research-cluster": "Corporate Finance \n Corporate Governance \n Small Business Finance",
+        "name": "Fitriya Fauzi",
+        "degrees": "School of Business & Management",
+        "email": "fitriya.fauzi@rmit.edu.vn",
+        "research-cluster-second": "",
+        "full-profile": ""
+      },
+      {
+        "research-interest": "Economics & Finance",
+        "research-cluster": "Experimental economics\n Behavioral economics\n Applied microeconomics\n Energy sconomics and sustainability",
+        "name": "Maria Fernanda Rivas Rodriguez",
+        "degrees": "School of Business & Management",
+        "email": "fernanda.rivas@rmit.edu.vn",
+        "research-cluster-second": "",
+        "full-profile": ""
+      },
+      {
+        "research-interest": "Economics & Finance",
+        "research-cluster": "Energy economics and sustainability\n Applied microeconomics\n Political economics\n Experimental economics\n Electoral studies",
+        "name": "Selim J\u00fcrgen Ergun",
+        "degrees": "School of Business & Management",
+        "email": "selim.ergun@rmit.edu.vn",
+        "research-cluster-second": "",
+        "full-profile": ""
+      },
+      {
+        "research-interest": "Economics & Finance",
+        "research-cluster": "Fiscal policy\n Economic growth\n Corruption\n Sustainable Development\n Blockchain",
+        "name": "Tuan Chu",
+        "degrees": "School of Business & Management",
+        "email": "tuan.chu2@rmit.edu.vn",
+        "research-cluster-second": "Development Economics and Emerging Markets",
+        "full-profile": ""
+      },
+      {
+        "research-interest": "Management",
+        "research-cluster": "Sustainable Development\n Heritage Tourism\n Flow Experience\n Destination Marketing and Branding\n Sports Tourism",
+        "name": "Daisy Gayathri Kanagasabapathy",
+        "degrees": "School of Business & Management",
+        "email": "daisy.kanagasapapathy@rmit.edu.vn",
+        "research-cluster-second": "Tourism and Hospitality",
+        "full-profile": ""
+      },
+      {
+        "research-interest": "Tourism & Hospitality Management",
+        "research-cluster": "Tourism\n Hospitality\n Cuisine\n Culture\n Local entrepreneur\n Customer relationship management",
+        "name": "Vu Thi Kim Oanh",
+        "degrees": "School of Business & Management",
+        "email": "oanh.vuthikim@rmit.edu.vn",
+        "research-cluster-second": "",
+        "full-profile": ""
+      },
+      {
+        "research-interest": "Economics & Finance",
+        "research-cluster": "Cryptocurrency\n Economic \n Financial Forecasting",
+        "name": "Doan Bao Huy",
+        "degrees": "School of Business & Management",
+        "email": "huy.doanbao@rmit.edu.vn",
+        "research-cluster-second": "Development Economics and Emerging Markets",
+        "full-profile": ""
+      },
+      {
+        "research-interest": "Economics & Finance",
+        "research-cluster": "Finance\n Blockchain-cryptocurrency\n Management",
+        "name": "Nguyen Thi My Linh",
+        "degrees": "School of Business & Management",
+        "email": "linh.nguyenthimy2@rmit.edu.vn",
+        "research-cluster-second": "Development Economics and Emerging Markets",
+        "full-profile": "https://www.rmit.edu.vn/contact-us/staff-profiles/n/linh-nguyen"
+      },
+      {
+        "research-interest": "Management, Section: International Business",
+        "research-cluster": "Teaching & Learning\n Culture & Business\n Tourism & Hospitality",
+        "name": "Phil Smith",
+        "degrees": "School of Business & Management",
+        "email": "phil.smith@rmit.edu.vn",
+        "research-cluster-second": "Tourism and Hospitality",
+        "full-profile": ""
+      },
+      {
+        "research-interest": "Management",
+        "research-cluster": "Learning and Teaching\n Business Innovation\n Education Management\n Education Policy",
+        "name": "Do Thi Huong Nhu",
+        "degrees": "School of Business & Management",
+        "email": "nhu.dothihuong@rmit.edu.vn",
+        "research-cluster-second": "Scholarship of Learning in Higher Education and Organisations",
+        "full-profile": "https://www.rmit.edu.vn/contact-us/staff-profiles/d/nhu-do"
+      },
+      {
+        "research-interest": "Economics & Finance",
+        "research-cluster": "E-commerce law\n Smart contracts\n Contract law\n Consumer law\n International trade law\n Corporate governance\n Business ethics",
+        "name": "Nguyen Tan Son",
+        "degrees": "School of Business & Management",
+        "email": "son.nguyentan@rmit.edu.vn",
+        "research-cluster-second": "",
+        "full-profile": "https://www.rmit.edu.vn/contact-us/staff-profiles/n/son-tan-nguyen"
+      },
+      {
+        "research-interest": "Management",
+        "research-cluster": "Natural resources management and optimization\n Urban and basin water resources modelling\n Nature-based solutions for climate change adaptation and sustainable development\n Environmental Management",
+        "name": "Tran Duc Trinh",
+        "degrees": "School of Business & Management",
+        "email": "trinh.tranduc@rmit.edu.vn",
+        "research-cluster-second": "Sustainable Development",
+        "full-profile": ""
+      },
+      {
+        "research-interest": "Business & Innovation",
+        "research-cluster": "Operations and Supply Chain Management\n Agricultural and Food Supply Chains\n Sustainability in Manufacturing and Food processing industry",
+        "name": "Nguyen Manh Hung",
+        "degrees": "School of Business & Management",
+        "email": "hung.nguyen@rmit.edu.vn",
+        "research-cluster-second": "Logistics and Supply Chain Management",
+        "full-profile": ""
+      },
+      {
+        "research-interest": "Management",
+        "research-cluster": "",
+        "name": "Roger Epworth",
+        "degrees": "School of Business & Management",
+        "email": "roger.epworth@rmit.edu.vn",
+        "research-cluster-second": "",
+        "full-profile": ""
+      },
+      {
+        "research-interest": "Business & Innovation",
+        "research-cluster": "Supply Chain Management\n Sustainability\n Information Security\n Knowledge Management & Learning",
+        "name": "Irfan Ul Haq",
+        "degrees": "School of Business & Management",
+        "email": "irfan.ulhaq@rmit.edu.vn",
+        "research-cluster-second": "Logistics and Supply Chain Management",
+        "full-profile": "https://www.rmit.edu.vn/contact-us/staff-profiles/u/irfan-ulhaq"
+      },
+      {
+        "research-interest": "Economics & Finance",
+        "research-cluster": "",
+        "name": "Wil Martens",
+        "degrees": "School of Business & Management",
+        "email": "wil.martens@rmit.edu.vn",
+        "research-cluster-second": "",
+        "full-profile": ""
+      },
+      {
+        "research-interest": "Economics & Finance",
+        "research-cluster": "Voluntary disclosure\n Corporate social responsibility (CSR)\n Social media",
+        "name": "Justin Stevenson",
+        "degrees": "School of Business & Management",
+        "email": "justin.stevenson@rmit.edu.vn",
+        "research-cluster-second": "",
+        "full-profile": "https://www.rmit.edu.vn/contact-us/staff-profiles/s/justin-stevenson"
+      },
+      {
+        "research-interest": "Economics & Finance",
+        "research-cluster": "Poverty reduction\n Microfinance\n Tourism\n Developmental studies\n Gender",
+        "name": "Charles Fajardo",
+        "degrees": "School of Business & Management",
+        "email": "charles.fajardo@rmit.edu.vn",
+        "research-cluster-second": "Development Economics and Emerging Markets",
+        "full-profile": ""
+      },
+      {
+        "research-interest": "Economics & Finance",
+        "research-cluster": "Students\u2019 thinking operations",
+        "name": "Marlehan Mohamed",
+        "degrees": "School of Business & Management",
+        "email": "marlehan.binmohamed@rmit.edu.vn",
+        "research-cluster-second": "Scholarship of Learning in Higher Education and Organisations",
+        "full-profile": ""
+      },
+      {
+        "research-interest": "Business & Innovation",
+        "research-cluster": "",
+        "name": "Nguyen Xuan Hai (Kevin)",
+        "degrees": "School of Business & Management",
+        "email": "kevin.nguyen@rmit.edu.vn",
+        "research-cluster-second": "",
+        "full-profile": ""
+      },
+      {
+        "research-interest": "Management",
+        "research-cluster": "",
+        "name": "Antoine Goupille",
+        "degrees": "School of Business & Management",
+        "email": "antoine.goupille@rmit.edu.vn",
+        "research-cluster-second": "",
+        "full-profile": ""
+      },
+      {
+        "research-interest": "Economics & Finance",
+        "research-cluster": "International trade\n International monetary economics",
+        "name": "Phan Minh Hoa",
+        "degrees": "School of Business & Management",
+        "email": "hoa.phan@rmit.edu.vn",
+        "research-cluster-second": "Development Economics and Emerging Markets",
+        "full-profile": ""
+      },
+      {
+        "research-interest": "Management",
+        "research-cluster": "International Business\n Management",
+        "name": "Thanapat Kijbumrung",
+        "degrees": "School of Business & Management",
+        "email": "thanapat.kijbumrung@rmit.edu.vn",
+        "research-cluster-second": "Scholarship of Learning in Higher Education and Organisations",
+        "full-profile": "https://www.rmit.edu.vn/contact-us/staff-profiles/k/thanapat-kijbumrung"
+      },
+      {
+        "research-interest": "Management",
+        "research-cluster": "",
+        "name": "Nguyen Mai Ngan",
+        "degrees": "School of Business & Management",
+        "email": "ngan.nguyen@rmit.edu.vn",
+        "research-cluster-second": "",
+        "full-profile": ""
+      },
+      {
+        "research-interest": "Economics & Finance",
+        "research-cluster": "Business Education\n Financial Accounting\n Emerging Technologies in Accounting",
+        "name": "Nguyen Thanh Ha",
+        "degrees": "School of Business & Management",
+        "email": "ha.nguyenthanh@rmit.edu.vn",
+        "research-cluster-second": "Development Economics and Emerging Markets",
+        "full-profile": ""
+      },
+      {
+        "research-interest": "Economics & Finance",
+        "research-cluster": "Food security and food safety\n Business decision making (firm behavior) on credence quality attributes\n Managerial economics in quality controls\n Industrial economics\n Sustainable and responsible production\n Sustainability in economic development\n Application of blockchain technology for economic activities",
+        "name": "Le Vi An Tam",
+        "degrees": "School of Business & Management",
+        "email": "tam.levian@rmit.edu.vn",
+        "research-cluster-second": "Development Economics and Emerging Markets",
+        "full-profile": "https://www.rmit.edu.vn/contact-us/staff-profiles/l/tam-v-a-le"
+      },
+      {
+        "research-interest": "Economics & Finance",
+        "research-cluster": "",
+        "name": "Pham Thi Minh Thuy",
+        "degrees": "School of Business & Management",
+        "email": "thuy.pham@rmit.edu.vn",
+        "research-cluster-second": "",
+        "full-profile": ""
+      },
+      {
+        "research-interest": "Business & Innovation",
+        "research-cluster": "Marketing management\n Tourism\n Hospitality\n Sustainability",
+        "name": "Phung Thanh Phuong",
+        "degrees": "School of Business & Management",
+        "email": "phuong.phung@rmit.edu.vn",
+        "research-cluster-second": "Entrepreneurship, Innovation, and Digital Transformation",
+        "full-profile": "https://www.rmit.edu.vn/contact-us/staff-profiles/p/phung-thanh-phuong"
+      },
+      {
+        "research-interest": "Management",
+        "research-cluster": "Entrepreneurship\n E-business\n Digital platform\n Creative Industries",
+        "name": "Nguyen Thi Minh Thu",
+        "degrees": "School of Business & Management",
+        "email": "thu.nguyenthiminh@rmit.edu.vn",
+        "research-cluster-second": "Scholarship of Learning in Higher Education and Organisations",
+        "full-profile": ""
+      },
+      {
+        "research-interest": "Economics & Finance",
+        "research-cluster": "Impact of women directors on corporate board of directors (Vietnam)",
+        "name": "Jain Upasana",
+        "degrees": "School of Business & Management",
+        "email": "jain.upasana@rmit.edu.vn",
+        "research-cluster-second": "None",
+        "full-profile": ""
+      },
+      {
+        "research-interest": "Economics & Finance",
+        "research-cluster": "Corporate law\n Corporate accountability\n Supply chain laws\n Business and human rights",
+        "name": "Esmira Hackenberg",
+        "degrees": "School of Business & Management",
+        "email": "esmira.hackenberg@rmit.edu.vn",
+        "research-cluster-second": "",
+        "full-profile": ""
+      },
+      {
+        "research-interest": "Management",
+        "research-cluster": "Management\n Marketing\n Tourism",
+        "name": "Ganakrishnan Gopalakrishnan",
+        "degrees": "School of Business & Management",
+        "email": "gana.gopalakrishnan@rmit.edu.vn",
+        "research-cluster-second": "Tourism and Hospitality",
+        "full-profile": ""
+      },
+      {
+        "research-interest": "Economics & Finance",
+        "research-cluster": "",
+        "name": "Clara Nkhoma",
+        "degrees": "School of Business & Management",
+        "email": "clara.nkhoma@rmit.edu.vn",
+        "research-cluster-second": "",
+        "full-profile": ""
+      },
+      {
+        "research-interest": "Business & Innovation",
+        "research-cluster": "Global Trade\n Cross-Cultural Negotiations\n Foreign Market Entry",
+        "name": "Steven Clarke",
+        "degrees": "School of Business & Management",
+        "email": "steven.clarke@rmit.edu.vn",
+        "research-cluster-second": "N/A",
+        "full-profile": "https://www.rmit.edu.vn/contact-us/staff-profiles/c/steven-clarke"
+      },
+      {
+        "research-interest": "Management",
+        "research-cluster": "Strategic Management\n CSR\n Sustainability\n Leadership\n Entrepreneurship",
+        "name": "Do Thi Ha Lan",
+        "degrees": "School of Business & Management",
+        "email": "lan.dothiha@rmit.edu.vn",
+        "research-cluster-second": "Tourism and Hospitality",
+        "full-profile": "https://www.rmit.edu.vn/contact-us/staff-profiles/d/lan-do"
+      },
+      {
+        "research-interest": "Management",
+        "research-cluster": "Organisational Behaviour\n Strategic Management\n Blockchain",
+        "name": "Todd Rogers",
+        "degrees": "School of Business & Management",
+        "email": "todd.rogers@rmit.edu.vn",
+        "research-cluster-second": "N/A",
+        "full-profile": "https://www.rmit.edu.vn/contact-us/staff-profiles/r/todd-rogers"
+      },
+      {
+        "research-interest": "Business & Innovation",
+        "research-cluster": "",
+        "name": "Cheng Bun",
+        "degrees": "School of Business & Management",
+        "email": "cheng.bun@rmit.edu.vn",
+        "research-cluster-second": "",
+        "full-profile": ""
+      },
+      {
+        "research-interest": "Economics & Finance",
+        "research-cluster": "Environmental law and Policy\n Indigenous people and human right",
+        "name": "Ing Hoe Loh",
+        "degrees": "School of Business & Management",
+        "email": "loh.inghoe@rmit.edu.vn",
+        "research-cluster-second": "",
+        "full-profile": ""
+      },
+      {
+        "research-interest": "Management",
+        "research-cluster": "",
+        "name": "Christopher Hubbard",
+        "degrees": "School of Business & Management",
+        "email": "christopher.hubbard@rmit.edu.vn",
+        "research-cluster-second": "",
+        "full-profile": ""
+      },
+      {
+        "research-interest": "Management",
+        "research-cluster": "Sustainability\n Plastic pollution\n Environmental marketing\n Behaviour change",
+        "name": "Nhan Nguyen",
+        "degrees": "School of Business & Management",
+        "email": "nhan.nguyen@rmit.edu.vn",
+        "research-cluster-second": "Sustainable Development",
+        "full-profile": "https://www.rmit.edu.vn/contact-us/staff-profiles/n/nhan-nguyen"
+      },
+      {
+        "research-interest": "Management",
+        "research-cluster": "",
+        "name": "Peter Hyde",
+        "degrees": "School of Business & Management",
+        "email": "peter.hyde@rmit.edu.vn",
+        "research-cluster-second": "",
+        "full-profile": ""
+      },
+      {
+        "research-interest": "Business & Innovation",
+        "research-cluster": "",
+        "name": "Bill Au",
+        "degrees": "School of Business & Management",
+        "email": "bill.au@rmit.edu.vn",
+        "research-cluster-second": "",
+        "full-profile": "https://www.rmit.edu.vn/contact-us/staff-profiles/a/bill-au"
+      },
+      {
+        "research-interest": "Business & Innovation",
+        "research-cluster": "HR analytics\n People analytics\n Digital transformation",
+        "name": "Hua My Sang",
+        "degrees": "School of Business & Management",
+        "email": "sang.huamy@rmit.edu.vn",
+        "research-cluster-second": "Managing Smart Transformation",
+        "full-profile": "https://www.rmit.edu.vn/contact-us/staff-profiles/h/sang-hua"
+      },
+      {
+        "research-interest": "Business & Innovation",
+        "research-cluster": "",
+        "name": "Kristof Van Houdt",
+        "degrees": "School of Business & Management",
+        "email": "kristof.vanhoudt@rmit.edu.vn",
+        "research-cluster-second": "",
+        "full-profile": "https://www.rmit.edu.vn/contact-us/staff-profiles/h/kristof-van-houdt"
+      },
+      {
+        "research-interest": "Business & Innovation",
+        "research-cluster": "1. Digital Marketing/Business:\n The focus of digital marketing/business is in consumer behaviour. I have done studies in:\n \u00b7 Marketing intelligence in Internet banking service\n \u00b7 Social media marketing in virtual communities\n \u00b7 User experience \u2013 web usability studies\n \u00b7 Future cities research: Digital cities - acceptance/adoption of e-government application i.e. Malaysia\u2019s Multipurpose Smart National Identity Card (Mykad) for identification, banking, transportation, terrorism control\n \u00b7 Technology adoption/acceptance in logistics technology e.g. handheld RFID scanners, voice pick systems, computerized equipment safety checklist and product recall systems\n \u00b7 Business consumer behaviour in the acceptance/adoption of computer-assisted audit tools and techniques (CAATT)\n \n 2. Sustainability\n \u00b7 Future cities research: Sustainable system of systems concept \u2013 a method to design sustainability into systems which can be useful in designing sustainable cities, e.g. designing green building, people-based infrastructure, food security, etc.\n \u00b7 Activity level balanced sustainability reporting\n \u00b7 Green marketing: responsible computer consumption\n \n 3. Occupational Safety and Health and Ergonomics\n \u00b7 Occupation safety and health and ergonomics in manufacturing\n \u00b7 Behaviour-based and outcome-based safety incentive program\n \u00b7 Workstation, work process, tool and product design\n \u00b7 Hand rest design",
+        "name": "Paul Ping Yeow Heng",
+        "degrees": "School of Business & Management",
+        "email": "paul.yeow@rmit.edu.vn",
+        "research-cluster-second": "Entrepreneurship, Innovation, and Digital Transformation\n Smart City Hub\n Cyber Security Research and Innovation (CCSRI) (New)",
+        "full-profile": ""
+      },
+      {
+        "research-interest": "Management",
+        "research-cluster": "Human resource management\n International human resource management\n International business\n Knowledge management\n Talent management\n Expatriate management\n Expatriate family issues",
+        "name": "Dang Thao Quyen",
+        "degrees": "School of Business & Management",
+        "email": "quyen.dangthao@rmit.edu.vn",
+        "research-cluster-second": "",
+        "full-profile": "https://www.rmit.edu.vn/contact-us/staff-profiles/d/quyen-dang"
+      },
+      {
+        "research-interest": "Economics & Finance",
+        "research-cluster": "Microfinance\n SMEs\n Impact evaluation\n Development economics\n Lab and field experiments\n Corporate finance",
+        "name": "Vu Thi Hong Nhung",
+        "degrees": "School of Business & Management",
+        "email": "nhung.vuthihong@rmit.edu.vn",
+        "research-cluster-second": "Development Economics and Emerging Markets",
+        "full-profile": ""
+      },
+      {
+        "research-interest": "Management",
+        "research-cluster": "Hospitality and Tourism Curriculum Development\n Work Based Learning\n Tourism and Hospitality Sustainable",
+        "name": "Quach Van Ha",
+        "degrees": "School of Business & Management",
+        "email": "ha.quachvan@rmit.edu.vn",
+        "research-cluster-second": "Tourism and Hospitality",
+        "full-profile": ""
+      },
+      {
+        "research-interest": "Business & Innovation",
+        "research-cluster": "Transport\n Maritime economics & management\n Dry port\n Logistics\n Supply chain\n Shipping\n Ports\n Intermodality",
+        "name": "Nguyen Canh Lam",
+        "degrees": "School of Business & Management",
+        "email": "lam.nguyencanh@rmit.edu.vn",
+        "research-cluster-second": "Logistics and Supply Chain Management",
+        "full-profile": ""
+      },
+      {
+        "research-interest": "Economics & Finance",
+        "research-cluster": "Banking & Finance\n Fintech\n Law & Technology\n Corporate Governance\n Securities Market\n Corporate Law\n Legal Reform\n Law & Development",
+        "name": "Tran Viet Anh (Victor Tran)",
+        "degrees": "School of Business & Management",
+        "email": "vietanh.tran@rmit.edu.vn",
+        "research-cluster-second": "Entrepreneurship, Innovation and Digital Transformation",
+        "full-profile": ""
+      },
+      {
+        "research-interest": "Economics & Finance",
+        "research-cluster": "Agricultural and development economics\n Food price analysis and poverty dynamics\n Agricultural marketing\n Aid\n Applied econometrics\n Food security\n Human development\n Sustainable urban development\n Social protection",
+        "name": "Robert Baulch",
+        "degrees": "School of Business & Management",
+        "email": "robert.baulch@rmit.edu.vn",
+        "research-cluster-second": "Development Economics & Emerging Markets",
+        "full-profile": ""
+      },
+      {
+        "research-interest": "Economics & Finance",
+        "research-cluster": "Alternative financial systems\n Islamic banking and finance\n Corporate governance\n Micro-banking\n Financial inclusion\n Blockchain governance",
+        "name": "Seng Kiong Kok",
+        "degrees": "School of Business & Management",
+        "email": "seng.kok2@rmit.edu.vn",
+        "research-cluster-second": "Development Economics and Emerging Markets (FinTech-Crypto Hub)",
+        "full-profile": ""
+      },
+      {
+        "research-interest": "Information Technology",
+        "research-cluster": "Behavioral information security\n Information security and technology management\n Digital transformation\n Digital business\n Data analytics\n Human-centered artificial intelligence",
+        "name": "Dang Pham Thien Duy",
+        "degrees": "School of Business & Management",
+        "email": "duy.dangphamthien@rmit.edu.vn",
+        "research-cluster-second": "",
+        "full-profile": "https://www.rmit.edu.vn/contact-us/staff-profiles/d/duy-dang-pham"
+      },
+      {
+        "research-interest": "",
+        "research-cluster": "Sustainability-oriented innovation\n Entrepreneurial marketing strategy\n Sustainability in practice",
+        "name": "Vicki Janine Little",
+        "degrees": "School of Business & Management",
+        "email": "vicki.little@rmit.edu.vn",
+        "research-cluster-second": "",
+        "full-profile": ""
+      }
+    ],
+    "research-interest": {
+      "1": "Project-Based Learning\n STEM Education\n Creative Thinking Skills\n Embedded System",
+      "2": "Semiconductor Device and Physics\n Embedded Systems",
+      "3": "Semiconductor device design and fabrication\n Microelectronics\n Gas sensors technology",
+      "4": "Industrial automation\n Power electronics\n Electrical drive system\n Renewable energy\n Smart grid",
+      "5": "Asynchronous integrated circuit design\n Semiconductor device and process modelling\n Robotics & mechatronics engineering",
+      "6": "Software Engineering Methodologies\n Software Project Management\n Software Design\n AI and ML",
+      "7": "Enterprise resource planning\n Customer relationship management and insurance\n Media and publication\n Health information systems\n Public administration\n Content management system",
+      "8": "Computer forensics and cybers security\n Human computer interaction (evaluation)\n Technology supported teaching and learning",
+      "9": "Management information systems\n Machine learning",
+      "10": "System Modelling and Simulation\n Robotics and Automation\n Autonomous Vehicles\n Ocean Engineering",
+      "11": "Robotic control and designs\n Material science and engineering\n Computer aided design and manufacturing",
+      "12": "Robotics and Mechatronics\n Smart materials\n Computational mechanics \n Data-driven computing\n Scientific computing",
+      "13": "High Performance Computing\n Distributed Computing\n Computational Science\n AI and Machine Learning",
+      "14": "Security & Privacy\n Human-Computer Interaction\n Information Visualization",
+      "15": "Natural Language Process\n Reinforcement Learning\n Explainable AI",
+      "16": "Networking\n Algorithms\n High-performance Computing",
+      "17": "Advanced imaging sensors/systems/algorithms\n Artificial intelligence",
+      "18": "Programming\n Embedded and IoT Applications\n Computer Engineering (architecture and protocols)\n STEM Education",
+      "19": "Professional Communication",
+      "20": "Centre of Communication and Design",
+      "21": "",
+      "24": "Design",
+      "25": "Communication",
+      "26": "Design Studies",
+      "32": "Digital Media",
+      "33": "Digital Film and Video",
+      "35": "Fashion Enterpriese",
+      "36": "Professional Communication & Fashion",
+      "37": "Fashion and Textile Merchandising",
+      "38": "Languages",
+      "49": "Public Relations",
+      "54": "Fashion",
+      "65": "Centre for Digital Excellence (CODE)",
+      "66": "Business & Innovation",
+      "69": "Digital Marketing (Program), Digital Innovation (Department)",
+      "70": "Economics & Finance",
+      "78": "Management",
+      "86": "Office of Dean",
+      "87": "Tourism & Hospitality Management",
+      "89": "Tourism & Hospitality Management/ Management",
+      "90": "Economics and Finance",
+      "94": "Human Resource Management and Entrepreneurship",
+      "96": "International Business",
+      "105": "Management, Section: International Business",
+      "149": "Information Technology"
+    },
+    "research-cluster": {
+      "1": "Engineering and IT Education",
+      "2": "Smart Cities",
+      "3": "Computing Technologies",
+      "4": "Smart Cities and Advanced Manufacturing and Design",
+      "6": "Smart Computing Technologies",
+      "10": "Smart Cities and Sustainable Natural Environment",
+      "19": "Augmented reality \n Digital communication\n Digital advertising",
+      "20": "Interaction design to encourage physical activity, sports in virtual and physical space",
+      "21": "Film, video and screenwriting practice",
+      "22": "Sustainability\n Rise of global middle classes\n Mega-urbanization, especially Ho Chi Minh City\n Mobilities\n Public transport\n Gender and social change\n Work, welfare and retirement policy\n Social anthropology\n Sensory ethnography\n Authentic learning",
+      "23": "Mobile, social, and digital media\n Critical and cultural theory\n Phenomenology\n Philosophy of technology\n Place and place-making practices",
+      "24": "Digitization\n Digital Communication\n Cultural Sector\n Transnationalism, Migration and Mobility",
+      "25": "Diversity in the creative industries\n Sustainable fashion\n Global youth cultures\n Arts and cultural diversity",
+      "26": "Strategic design\n Social design\n Urban spaces and ecology\n Creative and cultural ecology\n Practice-led creative research\n Art in public space\n Transnational design pedagogy\n Social inclusion and equity\n Interdisciplinary projects",
+      "27": "Phenomenology, Psychology and Space\n Existential Spatial Hermeneutics\n Authenticity, Ontology and Creative Pedagogy",
+      "28": "Methods of observation, documentation and re-presentation of the complex urban conditions through multiple moving image sequences.",
+      "29": "Design for heritage (architectural, urban, industrial)\n Design for the bioregion (sustainability)\n Novel representations of the city",
+      "30": "The creation, development, propagation, and evolution of design methods",
+      "31": "Video Games\n Interactive Storytelling\n Conspiracy Theories\n Tabletop Roleplaying Games, Boardgames & Wargames",
+      "32": "Sound Studies (Ambient Fields, Ambient Events & Ambient Experience)",
+      "33": "Moving image and sound collaboration, with a particular emphasis on a visual music collaboration with electroacoustic computer music composer Professor Tim Howle, University of Kent. \n Intercultural arts explorations - filming and representing Buddhist art and culture.\n Experimental and Avant-Garde film, video, digital media production, and video art\n Expanded cinematic practices including multi-projection work, interactive VJ technologies, public and gallery-based installation and screenings",
+      "34": "Digital philosophy\n Practice of syncing the standpoint of Ancient Greek logic with the period of the digit \n RRR (really real reality)",
+      "35": "Circular economy in fashion\n Sustainable fashion\n Contemporary fashion manufacturing\n Social media\n eWOM",
+      "36": "Advertising and PR",
+      "37": "History of fashion\n Archiving and exhibition of fashion articles\n Social impact of fashion issues\n Fashion as communication of identity \n A focus on fashion in Asia",
+      "38": "Youth Cultural Studies\n Media Studies\n Japanese Popular Culture\n Critical pedagogy (Teaching Japanese as Foreign Language)",
+      "39": "Applied critical thinking, multitasking and integrated skills in teaching and learning interpreting and translating (T&I) and English as a foreign language (EFL).\n Approaches and application of bilingualism/multilingualism in T&I, English language teaching (ELT) and teaching EFL (TEFL) embraced in light of the evolving concepts of world Englishes and globalisation.",
+      "40": "First year transition/first year experience\n Students of Confucian Heritage Cultures\n Academic expectations\n Academic success\n Scholarship of Learning and Teaching",
+      "41": "Brand communication\n Marketing management\n Social network and digital marketing\n Brand community\n Brand relationships\n Luxury branding.",
+      "42": "Consumer psychology\n Marketing communications\n Healthcare\n Qualitative\n Vietnam",
+      "43": "Socio-cultural impacts of information technologies\n Information behaviour\n Marginalised groups in Southeast Asia",
+      "44": "Higher Education\n Digital Cultures\n Alternative Media",
+      "45": "Crisis Communication \n Film study",
+      "46": "Scholarship of Teaching and Learning\n Communication and media studies\n Communication for social change (such as alternative / community media)\n Island studies",
+      "47": "Sustainable Marketing\n Internal Marketing\n Customer Engagement\n Online Collective Empowerment\n Health Communication\n Subjective Norms\n Perceived Fairness\n Social Media Community\n eWOM\n Work-Integrated Learning.",
+      "48": "Creative Writing\n Storytelling \n Collaborative Art\n Cultural Expression",
+      "49": "Communication\n Cross-cultural studies \n Marketing\n Social and Environmental Psychology \n Teaching and learning",
+      "50": "Culture and heritage \n Vi\u1ec7t Ki\u1ec1u identity / overseas Vietnamese\n Interactive storytelling and narrative (audio visual)\n Cross - specialism design \n Immersive design and tech\n Installation art\n Textiles - traditional craft practices / smart textiles",
+      "51": "Cross cultural practices\n Calligraphy & Lettering Arts\n Graphic Design & Typography",
+      "52": "Urban Photography\n Imaging Technologies\n Photography in Southeast Asia \n \n Note: I updated the information here - at the moment it is not so specific, but I expect to get updates soon. I just got approved to join the PhD program with RMIT Melbourne, but some paperwork still needs to be done, so we cannot put the details of this and my thesis topic on the page yet.. I will update once it is all official",
+      "53": "Visual Communication for Health & Well-being\n Inclusivity\n Sustainability",
+      "54": "",
+      "55": "Consumer behavior\n Digital and social media marketing\n Integrated communication marketing",
+      "57": "Graphic Design",
+      "60": "Sociolinguistics\n Identity Studies\n Intercultural Communication",
+      "61": "Advertising\n Nation Branding\n Soft Power",
+      "63": "Learner autonomy\n ELT in higher education\n Language education policy",
+      "64": "Health communication\n New media\n Crisis communication\n Strategic communication\n Marketing communication",
+      "65": "The impacts of new technology on people, places and processes",
+      "66": "Information systems\n Business process crowd-sourcing, outsourcing\n Design science\n Business process modelling\n Process flexibility\n Information modeling\n Decision support systems\n Digital business\n Digital marketing\n Digital transformation\n Explainable AI\n Open innovation",
+      "67": "Learning Analytics\n Quality Assurance in Higher Education Machine Learning\n Innovation and Entrepreneurship",
+      "68": "Digital marketing\n Sustainable consumption\n Sustainable tourism\n Sustainability education",
+      "69": "Consumer behaviour\n Consumer analytics\n Digital transformation\n Cybersecurity\n Fintech innovations\n Social network analysis\n Learning analytics\n Machine learning\n Methodological innovations",
+      "70": "Applied economics\n Economics of innovation\n Blockchain Economy\n Crypto Economy",
+      "71": "Global value chains\n International trade\n Culture difference in determining real investment\n Local firms in hosting countries & multinational corporations",
+      "72": "Education\n Leadership\n Gender studies\n Entrepreneurship\n Entrepreneurship Education\n SMEs\n Human Resource Management",
+      "73": "Banking \n Blockchain\n Crytocurrencies",
+      "74": "Corporate finance and governance\n Investment and financial markets\n CSR & social accounting\n Entrepreneurship and business economics\n Digital economy and Blockchain technology\n Big data and machine learning",
+      "75": "Bitcoin\n Blockchain\n Cryptofinance\n Financial Technology\n Real Estate Finance",
+      "76": "Fintech\n Cryptocurrencies\n Environmental finance\n Asset pricing\n Empirical finance",
+      "77": "Economic development\n CO2 emission\n Peer effects of neighboring countries",
+      "78": "HRM\n Employee motivation\n Green HRM\n Green training\n Hospitality HRM\n Digital transformation\n Ethics and sustainability",
+      "79": "Leadership\n HRM\n Entrepreneurship\n Management\n Diversity Management\n Expatriate Retention\n Job Satisfaction\n Quality Management\n Higher Education\n Knowledge Management",
+      "80": "Public sector management\n Entreprenuership\n Organizational dynamics\n Tourism",
+      "81": "Logistics & Supply Chain Management\n Tourism & Hospitality \n Education \n Business Management \n Communication Soft-Skills \n Alternative Medicine",
+      "82": "Cyber security behaviour\n Supply chain management\n Education technologies\n Digital innovation adoption\n Technology adoption",
+      "83": "Supply chain management\n Integrated, reverse and green logistics\n Sustainable development\n Corporate social responsibility (CSR) and corporate citizenship\n Emerging technologies\n Operations management\n Strategic outsourcing\n Business process reengineering (BPR)\n Pollution reduction\n Anywhere working, teleworking, working from home\n Smart cities",
+      "84": "Strategy\n Non-market strategy\n Corporate governance\n Privatization\n Political economy",
+      "85": "Digital transformation management\n E-government (digital government)\n Internation business\n Development economics",
+      "86": "Statistics\n Qualitative and Quantitative Research Methods\n Issues in Tourism\n Environmental Sustainability\n Health Management\n Public Sector Management",
+      "87": "Culturally-derived belief \n Behavior models in tourism destinations\n Young people's behaviors in tourism destinations\n Research methods in tourism research\n Cross-cultural tourism behavior",
+      "88": "Operations Management\n Hospitality Education\n Revenue Management\n Innovation\n System Design Management",
+      "89": "Urban Tourism Modelling\n Coastal Tourism Development,\n Sustainability Practices in Hospitality Industry \n CSR\n Organisation Culture\n Tourism Planning",
+      "90": "Blockchain Economics\n Financial Economics\n Energy Finance\n Financial Contagion\n Macroeconomics Policy",
+      "91": "Sustainability \n Circular economy \n Technology & innovation\n Sourcing \n Learning and knowledge management \n Finance and accounting. \n Human Resources \n Tourism and Hospitality \n Marketing \n Management \n Foreign trade",
+      "92": "Market inefficiencies with practical relevance\n International finance\n Leadership\n Macroeconomics\n Growth theory",
+      "93": "Agricultural commodity markets\n Derivatives\n International finance\n Investments\n Corporate finance",
+      "94": "Entrepreneurship\n Micro, Small and Medium Entrepreneurs (MSMEs)\n Social Entrepreneurship\n Relationship Management\n Customer Service\n Management\n Technopreneurship\n Strategic Management \n Sustainability and Change Management",
+      "95": "Global law to human security\n Improving the orientation of the laws promote businesses, guarantee human health and respect for the environment",
+      "96": "International business\n SMEs\n Family businesses\n Tourism/hospitality\n Innovation",
+      "97": "Corporate Finance \n Corporate Governance \n Small Business Finance",
+      "98": "Experimental economics\n Behavioral economics\n Applied microeconomics\n Energy sconomics and sustainability",
+      "99": "Energy economics and sustainability\n Applied microeconomics\n Political economics\n Experimental economics\n Electoral studies",
+      "100": "Fiscal policy\n Economic growth\n Corruption\n Sustainable Development\n Blockchain",
+      "101": "Sustainable Development\n Heritage Tourism\n Flow Experience\n Destination Marketing and Branding\n Sports Tourism",
+      "102": "Tourism\n Hospitality\n Cuisine\n Culture\n Local entrepreneur\n Customer relationship management",
+      "103": "Cryptocurrency\n Economic \n Financial Forecasting",
+      "104": "Finance\n Blockchain-cryptocurrency\n Management",
+      "105": "Teaching & Learning\n Culture & Business\n Tourism & Hospitality",
+      "106": "Learning and Teaching\n Business Innovation\n Education Management\n Education Policy",
+      "107": "E-commerce law\n Smart contracts\n Contract law\n Consumer law\n International trade law\n Corporate governance\n Business ethics",
+      "108": "Natural resources management and optimization\n Urban and basin water resources modelling\n Nature-based solutions for climate change adaptation and sustainable development\n Environmental Management",
+      "109": "Operations and Supply Chain Management\n Agricultural and Food Supply Chains\n Sustainability in Manufacturing and Food processing industry",
+      "111": "Supply Chain Management\n Sustainability\n Information Security\n Knowledge Management & Learning",
+      "113": "Voluntary disclosure\n Corporate social responsibility (CSR)\n Social media",
+      "114": "Poverty reduction\n Microfinance\n Tourism\n Developmental studies\n Gender",
+      "115": "Students\u2019 thinking operations",
+      "118": "International trade\n International monetary economics",
+      "119": "International Business\n Management",
+      "121": "Business Education\n Financial Accounting\n Emerging Technologies in Accounting",
+      "122": "Food security and food safety\n Business decision making (firm behavior) on credence quality attributes\n Managerial economics in quality controls\n Industrial economics\n Sustainable and responsible production\n Sustainability in economic development\n Application of blockchain technology for economic activities",
+      "124": "Marketing management\n Tourism\n Hospitality\n Sustainability",
+      "125": "Entrepreneurship\n E-business\n Digital platform\n Creative Industries",
+      "126": "Impact of women directors on corporate board of directors (Vietnam)",
+      "127": "Corporate law\n Corporate accountability\n Supply chain laws\n Business and human rights",
+      "128": "Management\n Marketing\n Tourism",
+      "130": "Global Trade\n Cross-Cultural Negotiations\n Foreign Market Entry",
+      "131": "Strategic Management\n CSR\n Sustainability\n Leadership\n Entrepreneurship",
+      "132": "Organisational Behaviour\n Strategic Management\n Blockchain",
+      "134": "Environmental law and Policy\n Indigenous people and human right",
+      "136": "Sustainability\n Plastic pollution\n Environmental marketing\n Behaviour change",
+      "139": "HR analytics\n People analytics\n Digital transformation",
+      "141": "1. Digital Marketing/Business:\n The focus of digital marketing/business is in consumer behaviour. I have done studies in:\n \u00b7 Marketing intelligence in Internet banking service\n \u00b7 Social media marketing in virtual communities\n \u00b7 User experience \u2013 web usability studies\n \u00b7 Future cities research: Digital cities - acceptance/adoption of e-government application i.e. Malaysia\u2019s Multipurpose Smart National Identity Card (Mykad) for identification, banking, transportation, terrorism control\n \u00b7 Technology adoption/acceptance in logistics technology e.g. handheld RFID scanners, voice pick systems, computerized equipment safety checklist and product recall systems\n \u00b7 Business consumer behaviour in the acceptance/adoption of computer-assisted audit tools and techniques (CAATT)\n \n 2. Sustainability\n \u00b7 Future cities research: Sustainable system of systems concept \u2013 a method to design sustainability into systems which can be useful in designing sustainable cities, e.g. designing green building, people-based infrastructure, food security, etc.\n \u00b7 Activity level balanced sustainability reporting\n \u00b7 Green marketing: responsible computer consumption\n \n 3. Occupational Safety and Health and Ergonomics\n \u00b7 Occupation safety and health and ergonomics in manufacturing\n \u00b7 Behaviour-based and outcome-based safety incentive program\n \u00b7 Workstation, work process, tool and product design\n \u00b7 Hand rest design",
+      "142": "Human resource management\n International human resource management\n International business\n Knowledge management\n Talent management\n Expatriate management\n Expatriate family issues",
+      "143": "Microfinance\n SMEs\n Impact evaluation\n Development economics\n Lab and field experiments\n Corporate finance",
+      "144": "Hospitality and Tourism Curriculum Development\n Work Based Learning\n Tourism and Hospitality Sustainable",
+      "145": "Transport\n Maritime economics & management\n Dry port\n Logistics\n Supply chain\n Shipping\n Ports\n Intermodality",
+      "146": "Banking & Finance\n Fintech\n Law & Technology\n Corporate Governance\n Securities Market\n Corporate Law\n Legal Reform\n Law & Development",
+      "147": "Agricultural and development economics\n Food price analysis and poverty dynamics\n Agricultural marketing\n Aid\n Applied econometrics\n Food security\n Human development\n Sustainable urban development\n Social protection",
+      "148": "Alternative financial systems\n Islamic banking and finance\n Corporate governance\n Micro-banking\n Financial inclusion\n Blockchain governance",
+      "149": "Behavioral information security\n Information security and technology management\n Digital transformation\n Digital business\n Data analytics\n Human-centered artificial intelligence",
+      "150": "Sustainability-oriented innovation\n Entrepreneurial marketing strategy\n Sustainability in practice"
+    }
+  }
+}
